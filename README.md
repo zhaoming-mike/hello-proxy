@@ -11,5 +11,6 @@
 # Test
 
 # TODO LIST
+- [x] JDK 动态代理技术
 - [ ] _待完善
 
